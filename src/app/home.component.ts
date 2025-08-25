@@ -17,6 +17,9 @@ import { ButtonModule } from '@progress/kendo-angular-buttons';
           <button kendoButton [routerLink]="['/dashboard']" themeColor="primary" fillMode="solid">
             View Dashboard
           </button>
+          <button kendoButton [routerLink]="['/contracts']" themeColor="primary" fillMode="solid">
+            Manage Contracts
+          </button>
           <button kendoButton [routerLink]="['/grid']" themeColor="primary" fillMode="outline">
             View Grid Demo
           </button>
