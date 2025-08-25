@@ -26,6 +26,13 @@ You are assisting in building a **front-end only Angular 20+ application** using
 - Keep UIs **accessible, keyboard-friendly, and clear**.
 - Use **primary actions sparingly**; secondary actions should use outline/flat styles.
 
+## Feature‑Scoped, Small Edits
+
+- Work **one feature/behavior at a time** (e.g., “debounce search in User List”).
+- Touch **only files required for that feature** (OK if it’s several files, but **no cross‑feature edits**).
+- Before editing, post a **2–3 line plan** (files + intent). After editing, post a **1–2 line verify note** (build/test result).
+- **No project‑wide refactors** or dependency/config changes unless explicitly requested.
+
 ## Out of Scope
 
 - No backend integrations.

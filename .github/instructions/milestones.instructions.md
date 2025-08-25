@@ -6,7 +6,7 @@ This file defines the **planned milestones** for the Kendo Connect project. Use 
 
 ## Milestone 1: Project Setup
 
-- Create Angular 20+ project with standalone components
+- [x]Create Angular 20+ project with standalone components
 - Add Kendo UI for Angular packages
 - Apply **Microsoft Fluent theme**
 - Configure routing + app shell (AppBar + navigation)
