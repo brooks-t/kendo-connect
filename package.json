@@ -30,6 +30,7 @@
     "@angular/platform-browser": "^20.2.0",
     "@angular/router": "^20.2.0",
     "@progress/kendo-angular-buttons": "^19.3.0",
+    "@progress/kendo-angular-charts": "^19.3.0",
     "@progress/kendo-angular-grid": "^19.3.0",
     "@progress/kendo-data-query": "^1.7.1",
     "@progress/kendo-licensing": "^1.7.1",
