@@ -9,6 +9,7 @@ import { ButtonModule } from '@progress/kendo-angular-buttons';
   template: `
     <div style="padding:2rem;">
       <h1>Welcome to Kendo Connect</h1>
+      <p>This is the home page. If you can see this, routing is working!</p>
       <button kendoButton themeColor="primary">Kendo Fluent Button</button>
       <br /><br />
       <button kendoButton [routerLink]="['/grid']" themeColor="primary" fillMode="solid">
