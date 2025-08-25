@@ -43,6 +43,10 @@ You are assisting in building a **front-end only Angular 20+ application** using
 
 - See `milestones.instructions.md` for the current roadmap and planned feature milestones.
 - See `style-guard.instructions.md` for styling rules and theme consistency guardrails.
+- See `forms.instructions.md` for form handling, inputs, validation, and dialog patterns.
+- See `grid.instructions.md` for grid configuration, sorting, filtering, and exporting.
+- See `mock-data.instructions.md` for strategies on mock data and localStorage usage.
+- See `theme.instructions.md` for Fluent theme integration and usage details.
 
 ---
 
